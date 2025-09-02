@@ -28,3 +28,4 @@ C:\Users\Aprendiz\Desktop\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.dll
 C:\Users\Aprendiz\Desktop\ParqueaderoSena\Logica\obj\Debug\net8.0\refint\Logica.dll
 C:\Users\Aprendiz\Desktop\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.pdb
 C:\Users\Aprendiz\Desktop\ParqueaderoSena\Logica\obj\Debug\net8.0\ref\Logica.dll
+C:\Users\Aprendiz\Desktop\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.sourcelink.json
