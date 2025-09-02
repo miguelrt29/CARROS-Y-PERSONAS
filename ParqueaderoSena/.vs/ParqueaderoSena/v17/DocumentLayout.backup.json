@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proyectos\\Practicas\\ParqueaderoSena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|d:\\proyectos\\practicas\\parqueaderosena\\principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|d:\\proyectos\\practicas\\parqueaderosena\\principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD2E171-34AF-44CE-AA95-528183E07225}|Logica\\Logica.csproj|d:\\proyectos\\practicas\\parqueaderosena\\logica\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD2E171-34AF-44CE-AA95-528183E07225}|Logica\\Logica.csproj|solutionrelative:logica\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|d:\\proyectos\\practicas\\parqueaderosena\\datos\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|solutionrelative:datos\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|d:\\proyectos\\practicas\\parqueaderosena\\principal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|d:\\proyectos\\practicas\\parqueaderosena\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Logica\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Logica\\PersonaController.cs",
+              "ToolTip": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Logica\\PersonaController.cs",
+              "RelativeToolTip": "Logica\\PersonaController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:40:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Datos",
+              "DocumentMoniker": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Datos\\Datos.csproj",
+              "RelativeDocumentMoniker": "Datos\\Datos.csproj",
+              "ToolTip": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Datos\\Datos.csproj",
+              "RelativeToolTip": "Datos\\Datos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T20:30:02.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Datos\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\BaseDatos.cs",
+              "ToolTip": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Datos\\BaseDatos.cs",
+              "RelativeToolTip": "Datos\\BaseDatos.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:30:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FmPersonas.cs",
+              "DocumentMoniker": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Principal\\FmPersonas.cs",
+              "RelativeDocumentMoniker": "Principal\\FmPersonas.cs",
+              "ToolTip": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Principal\\FmPersonas.cs",
+              "RelativeToolTip": "Principal\\FmPersonas.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:24:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FmPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Principal\\FmPersonas.cs",
+              "RelativeDocumentMoniker": "Principal\\FmPersonas.cs",
+              "ToolTip": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Principal\\FmPersonas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\FmPersonas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:21:33.246Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Principal\\Program.cs",
+              "RelativeDocumentMoniker": "Principal\\Program.cs",
+              "ToolTip": "D:\\proyectos\\Practicas\\ParqueaderoSena\\Principal\\Program.cs",
+              "RelativeToolTip": "Principal\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:20:57.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

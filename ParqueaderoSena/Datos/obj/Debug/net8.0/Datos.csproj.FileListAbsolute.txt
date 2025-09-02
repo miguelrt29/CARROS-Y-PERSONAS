@@ -1,0 +1,11 @@
+D:\proyectos\Practicas\ParqueaderoSena\Datos\bin\Debug\net8.0\Datos.deps.json
+D:\proyectos\Practicas\ParqueaderoSena\Datos\bin\Debug\net8.0\Datos.dll
+D:\proyectos\Practicas\ParqueaderoSena\Datos\bin\Debug\net8.0\Datos.pdb
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\Datos.AssemblyInfoInputs.cache
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\Datos.AssemblyInfo.cs
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\Datos.csproj.CoreCompileInputs.cache
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\Datos.dll
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\refint\Datos.dll
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\Datos.pdb
+D:\proyectos\Practicas\ParqueaderoSena\Datos\obj\Debug\net8.0\ref\Datos.dll

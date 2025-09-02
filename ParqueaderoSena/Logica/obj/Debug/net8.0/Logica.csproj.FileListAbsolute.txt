@@ -1,0 +1,15 @@
+D:\proyectos\Practicas\ParqueaderoSena\Logica\bin\Debug\net8.0\Logica.deps.json
+D:\proyectos\Practicas\ParqueaderoSena\Logica\bin\Debug\net8.0\Logica.dll
+D:\proyectos\Practicas\ParqueaderoSena\Logica\bin\Debug\net8.0\Logica.pdb
+D:\proyectos\Practicas\ParqueaderoSena\Logica\bin\Debug\net8.0\Datos.dll
+D:\proyectos\Practicas\ParqueaderoSena\Logica\bin\Debug\net8.0\Datos.pdb
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.dll
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\refint\Logica.dll
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\Logica.pdb
+D:\proyectos\Practicas\ParqueaderoSena\Logica\obj\Debug\net8.0\ref\Logica.dll

@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\fmpersonas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmpersonas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\fmcarros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmcarros.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD2E171-34AF-44CE-AA95-528183E07225}|Logica\\Logica.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\logica\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD2E171-34AF-44CE-AA95-528183E07225}|Logica\\Logica.csproj|solutionrelative:logica\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BD2E171-34AF-44CE-AA95-528183E07225}|Logica\\Logica.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\logica\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BD2E171-34AF-44CE-AA95-528183E07225}|Logica\\Logica.csproj|solutionrelative:logica\\carroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\datos\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|solutionrelative:datos\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\datos\\entities\\personasenitity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\personasenitity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\datos\\entities\\carrosentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|solutionrelative:datos\\entities\\carrosentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmpersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\fmcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\fmcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmcarros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\fmpersonas.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\fmpersonas.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\principal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06A21248-81D6-428B-9812-7907EED72BD7}|Principal\\Principal.csproj|solutionrelative:principal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|c:\\users\\aprendiz\\desktop\\parqueaderosena\\datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A307E1D4-9530-42A5-8752-A70745E34A48}|Datos\\Datos.csproj|solutionrelative:datos\\datos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FmPersonas.resx",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.resx",
+              "RelativeDocumentMoniker": "Principal\\FmPersonas.resx",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.resx",
+              "RelativeToolTip": "Principal\\FmPersonas.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-09-02T20:30:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FmCarros.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmCarros.cs",
+              "RelativeDocumentMoniker": "Principal\\FmCarros.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmCarros.cs",
+              "RelativeToolTip": "Principal\\FmCarros.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:16:20.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FmCarros.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmCarros.Designer.cs",
+              "RelativeDocumentMoniker": "Principal\\FmCarros.Designer.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmCarros.Designer.cs",
+              "RelativeToolTip": "Principal\\FmCarros.Designer.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAowG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:13:01.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FmPersonas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.Designer.cs",
+              "RelativeDocumentMoniker": "Principal\\FmPersonas.Designer.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.Designer.cs",
+              "RelativeToolTip": "Principal\\FmPersonas.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:51:34.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarrosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Logica\\CarrosController.cs",
+              "RelativeDocumentMoniker": "Logica\\CarrosController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Logica\\CarrosController.cs",
+              "RelativeToolTip": "Logica\\CarrosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:30:04.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarrosEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\Entities\\CarrosEntity.cs",
+              "RelativeDocumentMoniker": "Datos\\Entities\\CarrosEntity.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\Entities\\CarrosEntity.cs",
+              "RelativeToolTip": "Datos\\Entities\\CarrosEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T19:27:53.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FmCarros.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmCarros.cs",
+              "RelativeDocumentMoniker": "Principal\\FmCarros.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmCarros.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\FmCarros.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T20:12:52.609Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FmPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.cs",
+              "RelativeDocumentMoniker": "Principal\\FmPersonas.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.cs",
+              "RelativeToolTip": "Principal\\FmPersonas.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:24:02.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Logica\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Logica\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Logica\\PersonaController.cs",
+              "RelativeToolTip": "Logica\\PersonaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:40:32.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonasEnitity.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\Entities\\PersonasEnitity.cs",
+              "RelativeDocumentMoniker": "Datos\\Entities\\PersonasEnitity.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\Entities\\PersonasEnitity.cs",
+              "RelativeToolTip": "Datos\\Entities\\PersonasEnitity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:29:15.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Datos.csproj",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\Datos.csproj",
+              "RelativeDocumentMoniker": "Datos\\Datos.csproj",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\Datos.csproj",
+              "RelativeToolTip": "Datos\\Datos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-20T20:30:02.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\BaseDatos.cs",
+              "RelativeDocumentMoniker": "Datos\\BaseDatos.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Datos\\BaseDatos.cs",
+              "RelativeToolTip": "Datos\\BaseDatos.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:30:11.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\Program.cs",
+              "RelativeDocumentMoniker": "Principal\\Program.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\Program.cs",
+              "RelativeToolTip": "Principal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:20:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FmPersonas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.cs",
+              "RelativeDocumentMoniker": "Principal\\FmPersonas.cs",
+              "ToolTip": "C:\\Users\\Aprendiz\\Desktop\\ParqueaderoSena\\Principal\\FmPersonas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Principal\\FmPersonas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T20:21:33.246Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
